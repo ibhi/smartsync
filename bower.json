@@ -1,0 +1,36 @@
+{
+  "name": "smartsync",
+  "version": "1.0.0",
+  "main": "dist/smartsync.js",
+  "authors": [
+    "Mohamed Ibrahim Sabibullah <ibrahimin2004@gmail.com>"
+  ],
+  "description": "A bower distribution of smartsync.js, a library created by Salesforce for the Salesforce.com Mobile SDK Shared.",
+  "moduleType": [],
+  "keywords": [
+    "Salesforce.com",
+    "Mobile",
+    "SDK",
+    "Shared",
+    "smartsync",
+    "smartsync.js",
+    "smartsyncjs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ibhi/smartsync",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "SalesforceMobileSDK-Shared": "https://github.com/forcedotcom/SalesforceMobileSDK-Shared.git",
+    "jquery": "^3.1.0",
+    "backbone": "^1.3.3"
+  },
+  "resolutions": {
+    "jquery": "^3.1.0"
+  }
+}

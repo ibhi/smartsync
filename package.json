@@ -1,0 +1,33 @@
+{
+  "name": "forcetk.mobilesdk",
+  "version": "1.0.0",
+  "description": "A bower distribution of smartsync.js, a library created by Salesforce for the Salesforce.com Mobile SDK Shared.",
+  "main": "",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibhi/smartsync.git"
+  },
+  "keywords": [
+    "Salesforce.com",
+    "Mobile",
+    "SDK",
+    "Shared",
+    "smartsync",
+    "smartsync.js",
+    "smartsyncjs"
+  ],
+  "author": "\"Mohamed Ibrahim Sabibullah <ibrahimin2004@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibhi/smartsync/issues"
+  },
+  "homepage": "https://github.com/ibhi/smartsync#readme"
+}
